@@ -1,10 +1,10 @@
-<img alt="ignite" src="https://github.com/ricardoltt/upfi/blob/main/.github/background.png" />
+<img alt="ignite" src="https://github.com/ricardoltt/upfi/blob/master/.github/background.png" />
 
 ## :dart: Sobre
 
 O projeto upfi é um sistema de upload e visualização de imagens, utilizando o imgBB e o FaunaDB.<br>
 
-<img alt="exemplo da tela" src="https://github.com/ricardoltt/upfi/blob/main/.github/1.png" />
+<img alt="exemplo da tela" src="https://github.com/ricardoltt/upfi/blob/master/.github/1.png" />
 
 ## :rocket: Tecnologias
 
